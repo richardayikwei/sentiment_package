@@ -3,7 +3,7 @@ wdataframe
 ==========
 Creates a Dataframe using the path to a WhatsApp text file
 
-wSentiment
+wsentiment
 ==========
 Looks at WhatsApp message for attendant page and scores
 them
