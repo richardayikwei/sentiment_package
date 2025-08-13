@@ -2,6 +2,20 @@ import pandas as pd
 import re
 
 def wdataframe(path):
+    """Create a Dataframe from text document
+
+    Parameters
+    ----------
+    path : str
+        Path to text file.
+        
+
+    Returns
+    -------
+    pd.DataFrame
+        A dataframe produced from the text document
+
+    """
     # Load the entire chat file
     with open(path, 'r', encoding='utf-8') as f:
         lines = f.read().splitlines()
