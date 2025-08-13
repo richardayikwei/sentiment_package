@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "sentiment-package"
 version = "0.1.1"
-description = "Package to analyse EV swap related issues"
+description = "Package to analyse Motorcycle EV swap related issues"
 readme = { file = "README.md", content-type = "text/markdown" }
 requires-python = ">=3.11"
 dependencies = [
