@@ -8,7 +8,7 @@ This subpackage analyses WhatsApp related messages for sentiment.
 
 import by using
 ```
-from motoevsentiment.wsentiment import wsentiment_score
+from evmotosentiment.wsentiment import wsentiment_score
 ```
 wsentiment_score takes only string inputs.
 
@@ -26,7 +26,7 @@ This subpackage changes WhatsApp text export file *(.txt)* into a dataframe
 
 import using
 ```
-from motoevsentiment.wsentiment import wdataframe
+from evmotosentiment.wsentiment import wdataframe
 ```
 
 - example
