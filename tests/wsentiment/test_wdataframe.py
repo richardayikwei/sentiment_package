@@ -1,4 +1,4 @@
-from motoevsentiment.wsentiment import wdataframe
+from evmotosentiment.wsentiment import wdataframe
 import pandas as pd
 
 def test_wdataframe(tmp_path):
