@@ -9,4 +9,4 @@ Looks at WhatsApp message for attendant page and scores
 them
 '''
 from .whatsappsentiment import wsentiment_score
-from .wahatsappdataframe import wdataframe
+from .whatsappdataframe import wdataframe
