@@ -44,3 +44,4 @@ print(df)
 0  2023-09-29 07:49:00    John Doe          ok
 1  2023-09-29 08:15:00    Jane Doe  swapped battery
 ```
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
