@@ -11,3 +11,6 @@ wheels/
 
 #
 .pypirc
+
+# Tox environments
+.tox/
