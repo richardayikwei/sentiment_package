@@ -1,5 +1,5 @@
 # Motoevsentiment 
-A package for analysing swap related messages.
+A package for extracting and analyzing sentiment from EV motorcycle feedback provided by customers and employees.
 
 ## wsentiment subpackage
 This subpackage analyses WhatsApp related messages for sentiment.
