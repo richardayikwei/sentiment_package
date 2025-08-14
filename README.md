@@ -44,4 +44,25 @@ print(df)
 0  2023-09-29 07:49:00    John Doe          ok
 1  2023-09-29 08:15:00    Jane Doe  swapped battery
 ```
+## Running Tests with Tox
+
+This project uses [Tox](https://tox.wiki/) to automate testing across multiple Python versions.
+
+### Test Environments
+The `tox.ini` is configured to run tests with:
+- Python 3.9
+- Python 3.10
+- Python 3.11
+
+Each environment installs:
+- `pytest` (for running tests)
+- `pandas` (project dependency)
+
+### Prerequisites
+- Python 3.9, 3.10, and 3.11 installed on your system
+- [uv](https://github.com/astral-sh/uv) for faster installs (optional but recommended)
+- Install tox with uv:
+```bash
+uv pip install tox tox-uv
+```
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
