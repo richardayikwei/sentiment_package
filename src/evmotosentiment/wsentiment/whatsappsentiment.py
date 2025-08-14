@@ -66,6 +66,7 @@ PHRASE_LEXICON = {
     'lights out': -2,
     'network problems': -2,
     'network problem': -2,
+    'screen off': -2,
     'light out': -2,
     'not talking': -2,
     'no feedback': -2,

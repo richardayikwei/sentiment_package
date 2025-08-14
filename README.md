@@ -35,7 +35,7 @@ from evmotosentiment.wsentiment import wdataframe
 test_file = "sample.txt"
 
 # Read the text file into a Pandas DataFrame
-df = read_text_to_df(test_file)
+df = wdataframe(test_file)
 
 # Display the DataFrame
 print(df)
