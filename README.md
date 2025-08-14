@@ -44,6 +44,14 @@ print(df)
 0  2023-09-29 07:49:00    John Doe          ok
 1  2023-09-29 08:15:00    Jane Doe  swapped battery
 ```
+
+### Running using pytest
+To run tests in your current Python environment:
+
+```bash
+pytest
+```
+
 ## Running Tests with Tox
 
 This project uses [Tox](https://tox.wiki/) to automate testing across multiple Python versions.
