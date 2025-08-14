@@ -76,6 +76,7 @@ PHRASE_LEXICON = {
     'light on': 2,
     'light back': 2,
     'not coming on': -2,
+    'no power': -2,
     "don't swap": -2,
     'going off': -2,
     'system down': -2,
