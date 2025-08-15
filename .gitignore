@@ -14,3 +14,9 @@ wheels/
 
 # Tox environments
 .tox/
+
+# ruff cache
+.ruff_cache/
+
+# pytest cache
+.pytest_cache/
