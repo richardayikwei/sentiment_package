@@ -1,3 +1,9 @@
+## 0.1.4 (2025-08-15)
+
+### Refactor
+
+- update lexicon
+
 ## 0.1.3 (2025-08-14)
 
 ### Refactor
