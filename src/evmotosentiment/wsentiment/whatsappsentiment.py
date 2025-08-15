@@ -83,7 +83,6 @@ PHRASE_LEXICON = {
     'system down': -2,
     'out of fully charged batteries': -2,
     'out of fully': -2,
-    'on time': 2,
     'not charging' : -2,
     'not showing' : -2,
     'not publishing' : -2,
