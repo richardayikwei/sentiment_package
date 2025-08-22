@@ -1,3 +1,9 @@
+## 0.1.5 (2025-08-22)
+
+### Refactor
+
+- **whatsappsentiment.py**: delete turn and turning from lexicon
+
 ## 0.1.4 (2025-08-15)
 
 ### Refactor
