@@ -33,6 +33,7 @@ WORD_LEXICON = {
     'shutting': -1,
     'shut': -1,
     'stuck': -1,
+    'left': -1,
     'stucked': -1,
     'back' : 1,
     'solved' : 1,
