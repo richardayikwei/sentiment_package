@@ -1,3 +1,9 @@
+## 0.2.0 (2025-09-14)
+
+### Feat
+
+- **general_cleaner**: clean text to remove unnecessary strings and symbols
+
 ## 0.1.6 (2025-08-23)
 
 ### Refactor
