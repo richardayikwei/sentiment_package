@@ -8,13 +8,12 @@ def wdataframe(path):
     ----------
     path : str
         Path to text file.
-        
 
     Returns
     -------
-    pd.DataFrame
-        A dataframe produced from the text document
-
+    df : pd.DataFrame
+        a dataframe contain datetime,sender and message
+    
     """
     # Load the entire chat file
     with open(path, 'r', encoding='utf-8') as f:

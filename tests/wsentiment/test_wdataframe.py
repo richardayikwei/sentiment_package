@@ -2,6 +2,17 @@ from evmotosentiment.wsentiment import wdataframe
 import pandas as pd
 
 def test_wdataframe(tmp_path):
+    """
+
+    Parameters
+    ----------
+    tmp_path : path
+        a temporary path to use to run test   
+
+    Returns
+    -------
+
+    """
 
     # Create a temporary text file
     test_file = tmp_path / "sample.txt"

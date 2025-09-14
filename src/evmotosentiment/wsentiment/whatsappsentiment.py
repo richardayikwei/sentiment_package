@@ -105,13 +105,12 @@ def wsentiment_score(text):
     ----------
     text : str
         a pre-processed string without punctuations
-        
 
     Returns
     -------
     score : int
-        an integer showing sentence score
-
+        the score of the text
+    
     """
     score = 0
     # Match multi-word phrases first
