@@ -58,6 +58,7 @@ WORD_LEXICON = {
     'damage': -1,
     'damaged': -1,
     'connector' : -1,
+    'raining' : -1,
 }
 
 # Multi-word (phrase) entries
@@ -69,6 +70,7 @@ PHRASE_LEXICON = {
     'light out': -2,
     'not talking': -2,
     'no feedback': -2,
+    'no sound': -2,
     'not responding': -2,
     'lights off': -2,
     'light off': -2,
@@ -84,12 +86,15 @@ PHRASE_LEXICON = {
     'out of fully': -2,
     'not charging' : -2,
     'not showing' : -2,
+    'not opened' : -2,
     'not publishing' : -2,
     'goes off' : -2,
     'no sound' : -2,
     'open slot' : -2,
     'prepaid finished' : -2,
-    'not starting' : -2
+    'not starting' : -2,
+    'no battery id' : -2,
+    'buy prepaid' : -2
 }
 
 
